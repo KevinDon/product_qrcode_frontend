@@ -1,0 +1,12 @@
+{
+  "message": {
+    "success": "操作成功!"
+  },
+  "system": {
+    "lang": {
+      "title": "多语言",
+      "english": "英文",
+      "chinese": "中文"
+    }
+  }
+}

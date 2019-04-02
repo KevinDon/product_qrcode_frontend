@@ -1,0 +1,12 @@
+{
+  "message": {
+    "success": "Operation successfully!"
+  },
+  "system": {
+    "lang": {
+      "title": "Languages",
+      "english": "En",
+      "chinese": "Zh"
+    }
+  }
+}
